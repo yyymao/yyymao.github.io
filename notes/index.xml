@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Notes on 姚船長的家</title>
+    <link>https://yyymao.github.io/notes/</link>
+    <description>Recent content in Notes on 姚船長的家</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <managingEditor>yaoyaocaptain@gmail.com (姚船長)</managingEditor>
+    <webMaster>yaoyaocaptain@gmail.com (姚船長)</webMaster>
+    <lastBuildDate>Sun, 16 Jul 2023 04:55:00 +0800</lastBuildDate><atom:link href="https://yyymao.github.io/notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>第一篇筆記</title>
+      <link>https://yyymao.github.io/notes/2023/note-1/</link>
+      <pubDate>Sun, 16 Jul 2023 04:55:00 +0800</pubDate>
+      <author>yaoyaocaptain@gmail.com (姚船長)</author>
+      <guid>https://yyymao.github.io/notes/2023/note-1/</guid>
+      <description>我盡情書寫的筆記內容！</description>
+    </item>
+    
+  </channel>
+</rss>

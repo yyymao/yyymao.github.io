@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>姚船長的家</title>
+    <link>https://yyymao.github.io/post/</link>
+    <description>Recent content on 姚船長的家</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <managingEditor>yaoyaocaptain@gmail.com (姚船長)</managingEditor>
+    <webMaster>yaoyaocaptain@gmail.com (姚船長)</webMaster>
+    <lastBuildDate>Sun, 16 Jul 2023 05:05:00 +0800</lastBuildDate><atom:link href="https://yyymao.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>我的第一則貼文</title>
+      <link>https://yyymao.github.io/post/2023/jul/first-post/</link>
+      <pubDate>Sun, 16 Jul 2023 05:05:00 +0800</pubDate>
+      <author>yaoyaocaptain@gmail.com (姚船長)</author>
+      <guid>https://yyymao.github.io/post/2023/jul/first-post/</guid>
+      <description>哈囉? 這是一家位於板橋的燒臘，店名是 哈囉燒臘 ！
+這是烤鴨燒肉雙拼飯 </description>
+    </item>
+    
+  </channel>
+</rss>

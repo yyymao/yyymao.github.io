@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on 姚船長的家</title>
+    <link>https://yyymao.github.io/tags/</link>
+    <description>Recent content in Tags on 姚船長的家</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <managingEditor>yaoyaocaptain@gmail.com (姚船長)</managingEditor>
+    <webMaster>yaoyaocaptain@gmail.com (姚船長)</webMaster>
+    <lastBuildDate>Sun, 16 Jul 2023 05:05:00 +0800</lastBuildDate><atom:link href="https://yyymao.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>板橋</title>
+      <link>https://yyymao.github.io/tags/%E6%9D%BF%E6%A9%8B/</link>
+      <pubDate>Sun, 16 Jul 2023 05:05:00 +0800</pubDate>
+      <author>yaoyaocaptain@gmail.com (姚船長)</author>
+      <guid>https://yyymao.github.io/tags/%E6%9D%BF%E6%A9%8B/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>美食</title>
+      <link>https://yyymao.github.io/tags/%E7%BE%8E%E9%A3%9F/</link>
+      <pubDate>Sun, 16 Jul 2023 05:05:00 +0800</pubDate>
+      <author>yaoyaocaptain@gmail.com (姚船長)</author>
+      <guid>https://yyymao.github.io/tags/%E7%BE%8E%E9%A3%9F/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>燒臘</title>
+      <link>https://yyymao.github.io/tags/%E7%87%92%E8%87%98/</link>
+      <pubDate>Sun, 16 Jul 2023 05:05:00 +0800</pubDate>
+      <author>yaoyaocaptain@gmail.com (姚船長)</author>
+      <guid>https://yyymao.github.io/tags/%E7%87%92%E8%87%98/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>標籤01</title>
+      <link>https://yyymao.github.io/tags/%E6%A8%99%E7%B1%A401/</link>
+      <pubDate>Tue, 11 Jul 2023 00:00:00 +0000</pubDate>
+      <author>yaoyaocaptain@gmail.com (姚船長)</author>
+      <guid>https://yyymao.github.io/tags/%E6%A8%99%E7%B1%A401/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
