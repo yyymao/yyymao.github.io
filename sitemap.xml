@@ -12,6 +12,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://yyymao.github.io/</loc>
+    <lastmod>2023-07-16T06:49:00+08:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://yyymao.github.io/tags/%E9%A4%90%E5%BB%B3/</loc>
     <lastmod>2023-07-16T06:49:00+08:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -32,8 +37,8 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://yyymao.github.io/</loc>
-    <lastmod>2023-07-16T06:49:00+08:00</lastmod>
+    <loc>https://yyymao.github.io/tags/blog/</loc>
+    <lastmod>2023-07-16T05:05:00+08:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
